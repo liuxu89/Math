@@ -1,6 +1,6 @@
 using Math
 using Test
 
-@testset "Math.jl" begin
+@testset "Math" begin
     # Write your tests here.
 end

@@ -4,7 +4,7 @@ CurrentModule = Math
 
 # Math
 
-Documentation for [Math](https://github.com/liuxu89/Math.jl).
+Documentation for [Math](https://github.com/liuxu89/Math).
 
 ```@index
 ```
