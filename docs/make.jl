@@ -16,6 +16,7 @@ makedocs(;
     pages=[
         "Home" => "index.md",
         "积分" => "integral.md",
+        "未分类" => "tmp.md",
     ],
 )
 
